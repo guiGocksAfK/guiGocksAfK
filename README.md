@@ -27,5 +27,5 @@ Fullstack developer focused on **Java/Spring Boot**, **Python**, **JavaScript** 
    
     - ---
 
-    *Filter my repos by language: [Java](https://github.com/guiGocksAfK?tab=repositories&language=java) | [JavaScript](https://github.com/guiGocksAfK?tab=repositories&language=javascript)*
+    *Filter my repos by language: [Java](https://github.com/guiGocksAfK?tab=repositories&language=java) | [JavaScript](https://github.com/guiGocksAfK?tab=repositories&language=javascript) | [TypeScript](https://github.com/guiGocksAfK?tab=repositories&language=typescript)*
     
