@@ -15,6 +15,8 @@ Fullstack developer focused on **Java/Spring Boot**, **Python**, **JavaScript** 
 | [**MyRank-backend**](https://github.com/guiGocksAfK/MyRank-backend) | Spring Boot REST API, Google Books API integration, authentication & security, Dockerized setup |
 | [**MyRank-frontend**](https://github.com/guiGocksAfK/MyRank-frontend) | React + Vite client for MyRank, consuming the backend API |
 | [**VidracariaJK**](https://github.com/guiGocksAfK/VidracariaJK) | Static business landing page built with HTML/CSS |
+| [**EscolaImaculada-backend**](https://github.com/guiGocksAfK/EscolaImaculada-backend) | NestJS (TypeScript) REST API for a school class-management system |
+| [**EscolaImaculada-frontend**](https://github.com/guiGocksAfK/EscolaImaculada-frontend) | Angular 22 + Material app with role-based auth (JWT), guards, and class/attendance management |
 
 ---
 
