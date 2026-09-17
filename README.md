@@ -17,6 +17,7 @@ Fullstack developer focused on **Java/Spring Boot**, **Python**, **JavaScript** 
 | [**VidracariaJK**](https://github.com/guiGocksAfK/VidracariaJK) | Static business landing page built with HTML/CSS |
 | [**EscolaImaculada-backend**](https://github.com/guiGocksAfK/EscolaImaculada-backend) | NestJS (TypeScript) REST API for a school class-management system |
 | [**EscolaImaculada-frontend**](https://github.com/guiGocksAfK/EscolaImaculada-frontend) | Angular 22 + Material app with role-based auth (JWT), guards, and class/attendance management |
+| [**MyRank-discordBot**](https://github.com/guiGocksAfK/MyRank-discordBot) | Python Discord bot for MyRank, delivering automated notifications and bot commands |
 
 ---
 
@@ -24,8 +25,6 @@ Fullstack developer focused on **Java/Spring Boot**, **Python**, **JavaScript** 
 - Building out MyRank (Spring Boot + React) end to end
 - - Deepening Java/Spring Boot and clean architecture practices
   - - Strengthening Python and JavaScript/React fundamentals
-   
-    - ---
-
-    *Filter my repos by language: [Java](https://github.com/guiGocksAfK?tab=repositories&language=java) | [JavaScript](https://github.com/guiGocksAfK?tab=repositories&language=javascript) | [TypeScript](https://github.com/guiGocksAfK?tab=repositories&language=typescript)*
-    
+- Building MyRank-discordBot, a Python Discord bot integrated with MyRank
+---
+*Filter my repos by language: [Java](https://github.com/guiGocksAfK?tab=repositories&language=java) | [JavaScript](https://github.com/guiGocksAfK?tab=repositories&language=javascript) | [TypeScript](https://github.com/guiGocksAfK?tab=repositories&language=typescript) | [Python](https://github.com/guiGocksAfK?tab=repositories&language=python)*    
