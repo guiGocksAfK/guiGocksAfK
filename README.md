@@ -18,6 +18,7 @@ Fullstack developer focused on **Java/Spring Boot**, **Python**, **JavaScript** 
 | [**EscolaImaculada-backend**](https://github.com/guiGocksAfK/EscolaImaculada-backend) | NestJS (TypeScript) REST API for a school class-management system |
 | [**EscolaImaculada-frontend**](https://github.com/guiGocksAfK/EscolaImaculada-frontend) | Angular 22 + Material app with role-based auth (JWT), guards, and class/attendance management |
 | [**MyRank-discordBot**](https://github.com/guiGocksAfK/MyRank-discordBot) | Python Discord bot for MyRank, delivering automated notifications and bot commands |
+| [**GuiGocks-Portfolio**](https://github.com/guiGocksAfK/GuiGocks-Portfolio) | Developer portfolio built as a pixel-art construction site, where little robots build every section while you watch. Next.js, React, TypeScript and Tailwind CSS. |
 
 ---
 
